@@ -1,0 +1,34 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Ribeye&display=swap');
+
+header{
+    background-image: url("../images/winter.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.customHeight{
+    height:80vh;
+}
+
+h1{
+    font-family: 'Ribeye';
+    
+}
+
+h2, h3{
+    font-family: 'Ribeye';
+}
+
+body{
+    font-family: 'Lato', serif;
+    font-size: large;
+}
+
+.center {
+    align-items: center;
+}
+
+#create{
+background-color: #ebb7eb;
+}
